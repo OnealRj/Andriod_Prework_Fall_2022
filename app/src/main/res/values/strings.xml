@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="rodney_intro">Hello World! My name is Rodney O\'Neal! I love dogs, working out, and reading!</string>
+    <string name="button_text">Say Hello</string>
+</resources>
